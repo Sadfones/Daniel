@@ -1,0 +1,5 @@
+nombre=input("ingrese su nombre:")
+apellido=input("ingrese su apellido:")
+codigo=input("ingrese su codigo:")
+seccion=input("ingrese su seccion:")
+sede=input("sede:")
